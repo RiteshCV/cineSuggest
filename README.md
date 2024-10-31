@@ -1,2 +1,0 @@
-# cineSuggest
-Movie recommendation system
